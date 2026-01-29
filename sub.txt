@@ -1,5 +1,4 @@
+vless://3534563e-6c0d-49d6-b7e4-5de169687acd@172.236.155.115:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=google.com#Linode-SG%F0%9F%87%B8%F0%9F%87%AC%20
+vless://03b3175c-65a4-4b75-9e70-77c32a10ba73@ffymoodon.fun:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ffymoodon.fun&fp=chrome&type=ws&allowInsecure=0&sni=ffymoodon.fun#VLESS-500GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCc0Y0Y3lXVEVIY05kSkFWVVI1SmN5@dyn.usa.outlinekeys.net:56636#Phoenix%2C%20AZ%2C%20United%20States
 trojan://chslToBpxJ@209.200.246.248:22086?security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&spx=%2F&type=grpc&sni=www.cloudflare.com&sid=4f69441f911943#SCP%7CCA
-vless://c538f934-e812-4c38-c966-a90b2cb7c671@152.42.231.121:8445?security=&encryption=none&headerType=&type=tcp#100Gb
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJ2MmNyb3NzLmNvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.59.243.6:990#v2cross.com
-vless://3568cfef-5948-4af9-91f8-6f89bd109ba4@152.42.231.121:8445?type=tcp&encryption=none&security=none#100Gb%20Vless
