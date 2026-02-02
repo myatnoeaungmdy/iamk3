@@ -20,3 +20,4 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.106.99:3076?security=tls&header
 trojan://BxceQaOe@219.76.135.98:443?security=tls&headerType=none&type=tcp&sni=t.me%25252Fripaojiedian#KKK%5E18
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?security=tls&headerType=none&type=tcp&sni=frankfurtrm2.686911.xyz#KKK%5E19
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.106.99:3423?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#KKK%5E20
+trojan://chslToBpxJ@209.200.246.248:22086?security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&spx=%2F&type=grpc&sni=www.cloudflare.com&sid=4f69441f911943#SCP%7CCA
