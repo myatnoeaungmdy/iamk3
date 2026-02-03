@@ -21,3 +21,10 @@ trojan://BxceQaOe@219.76.135.98:443?security=tls&headerType=none&type=tcp&sni=t.
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?security=tls&headerType=none&type=tcp&sni=frankfurtrm2.686911.xyz#KKK%5E19
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.106.99:3423?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#KKK%5E20
 trojan://chslToBpxJ@209.200.246.248:22086?security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&spx=%2F&type=grpc&sni=www.cloudflare.com&sid=4f69441f911943#SCP%7CCA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4d01Pa2NrenpibnVmOURNdmZFUmJ1@192.142.4.9:32228#Test%20-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpERWlqTThERGxvdVVJd21mRFJuZWFi@192.142.4.9:32228#Test%20-2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSDU4QkEyaUxSZUhqRFpCNVJuMkVN@192.142.4.9:32228#Test%20-3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKYzY0Q0tjbUdIbkpZZnZSOTlmeWsy@192.142.4.9:32228#Test%20-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsTTRoRE9LSm15UHB6TjU0U01SSW1r@192.142.4.9:32228#Test%20-5
+vless://20c3296a-57b0-4ba9-be30-f8d9dafecd3a@103.117.148.104:8080?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#All%20Sim%20and%20Wifi%20Exp%2015%2F02%2F2569
+vless://20c3296a-57b0-4ba9-be30-f8d9dafecd3a@tikvpn.speedtest.net.free1.tikinternet.com:8080?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#Atom%20Flexinet%20EXP%20%3A15%2F02%2F2026
